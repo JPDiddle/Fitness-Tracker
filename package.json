@@ -1,7 +1,7 @@
 {
-  "name": "Fitness Fitness",
+  "name": "Fitness-Tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fitness Tracker!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,20 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "hhtps://github.com/JPDiddle/Fitness-Tracker"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "hhtps://github.com/JPDiddle/Fitness-Tracker"
   },
-  "homepage": "",
+  "homepage": "hhtps://github.com/JPDiddle/Fitness-Tracker",
   "dependencies": {
-    "clog": "^0.1.6",
     "express": "^4.17.1",
+    "install": "^0.13.0",
     "mongoose": "^6.0.11",
-    "morgan": "^1.10.0",
     "nodemon": "^2.0.13"
   }
 }
